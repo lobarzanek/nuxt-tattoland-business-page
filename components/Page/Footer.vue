@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="flex flex-col p-4 justify-center items-center gap-6 bg-opacity-20 bg-black"
+    class="flex flex-col p-4 justify-center items-center gap-6 bg-opacity-10 bg-black"
   >
     <p>Znajdź nas na Facebooku i Instagramie:</p>
     <div class="flex justify-center gap-6">
