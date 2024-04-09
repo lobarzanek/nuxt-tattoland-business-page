@@ -32,7 +32,8 @@
       </a>
     </div>
     <div>
-      <p>COPYRIGHT © 2024 WWW.TATTOOLAND.PL. ALL RIGHTS RESERVED.</p>
+      <p class="text-xs text-center">COPYRIGHT © 2024 WWW.TATTOOLAND.PL.</p>
+      <p class="text-xs text-center pt-2">ALL RIGHTS RESERVED.</p>
     </div>
   </footer>
 </template>
