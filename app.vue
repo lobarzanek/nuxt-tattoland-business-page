@@ -1,7 +1,6 @@
 <template>
   <div class="flex flex-col justify-between min-h-dvh">
-    <Navbar />
-    <NuxtPage />
-    <Footer />
+    <NuxtLayout />
+    <PageFooter />
   </div>
 </template>
