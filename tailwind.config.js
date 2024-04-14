@@ -13,6 +13,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      flamingo: "#ff66ff",
+    },
   },
   postcss: {
     plugins: {
